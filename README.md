@@ -8,6 +8,8 @@ Proyecto Final de Acamica utilizando Node + Express
 
  * Abrimos la Documentacion de Swagger: 'https://app.swaggerhub.com/apis/GutierrezDaniel/Delilah/1.0.0'
 
+ * importamos la coleccion a postman con el archivo: 'delilahResto.postman_collection'
+
  * Abrir el archivo: 'config/db_connection_data' y completar con los siguientes datos:
  
     conf_db_host = 'localhost', 
