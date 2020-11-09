@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "04432238-0728-4119-9a88-46649231077f",
+		"_postman_id": "1a6b8325-9ef9-4ad5-bc42-f33990b211b1",
 		"name": "delilahRestoDG",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -192,7 +192,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n  \"id\": 87,\r\n  \"nombre\": \"Hamburguesa con queso\",\r\n  \"precio\": 99.99,\r\n  \"url_imagen\": \"string\",\r\n  \"disponible\": \"0\"\r\n}",
+							"raw": "{\r\n  \"id\": 87,\r\n  \"nombre\": \"Hamburguesa con queso\",\r\n  \"precio\": 99.99,\r\n  \"url_imagen\": \"string\",\r\n  \"disponible\": 0\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"

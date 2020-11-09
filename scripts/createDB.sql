@@ -47,7 +47,7 @@ id_usuarios INT NOT NULL,
 id_forma_pago INT NOT NULL,
 id_estado INT NOT NULL DEFAULT 1,
 hora TIME,
-precio_total DECIMAL (9,2) NOT NULL,
+precio_total DECIMAL (9,2) NOT NULL DEFAULT 1,
 pagado BIT(1) DEFAULT 1
 );
 ALTER TABLE pedidos

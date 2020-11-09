@@ -8,7 +8,7 @@ Proyecto Final de Acamica utilizando Node + Express
 
  * Abrimos la Documentacion de Swagger: 'https://app.swaggerhub.com/apis/GutierrezDaniel/Delilah/1.0.0'
 
- * importamos la coleccion a postman con el archivo: 'delilahResto.postman_collection'
+ * importamos la coleccion a postman con el archivo: 'delilahRestoDG.postman_collection'
 
  * Abrir el archivo: 'config/db_connection_data' y completar con los siguientes datos:
  
@@ -19,8 +19,10 @@ Proyecto Final de Acamica utilizando Node + Express
     conf_port     = '3306'; 
 
  * Ingresar a 'scripts/createDB.sql' copiar las consultas del archivo y ejecutarlas desde PhpMyAdmin
+
+ * Desde la terminal ubicado en el proyecto ingresar 'npm install'
  
- * Desde la terminal navegar a '/scripts'
+ * luego navegar a '/scripts'
 
  * Alli ejecutar 'node bulk.js'
 
